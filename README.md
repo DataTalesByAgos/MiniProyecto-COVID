@@ -46,7 +46,7 @@ Si no seleccionas ninguna provincia, verás un mensaje de aviso.
 ## 📂 Estructura de archivos
 bash
 ```
-├── Basecovid.txt       # Datos brutos
+├── Basecovid.txt       # Esta comprimido en rar
 ├── app.R      # Código fuente de la app
 ├── README.md           
 ```
